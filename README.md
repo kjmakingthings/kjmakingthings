@@ -1,12 +1,10 @@
-## Hey, I'm KJ. 👋
+## 👋 Hey, I'm KJ.
 
-⚙️  Product Manager, UX/UI Designer, Budding Engineer
+⚙️  Product Manager, UX/UI Designer, Budding Engineer <br/>
+🔭  M.S. Student in Creative Technologies & Design <br/>
+🤓  Currently Learning: Python, Computational Fabrication, Creative Tech <br/>
 
-🔭  M.S. Student in Creative Technologies & Design
-
-🤓  Currently Learning: Python, Computational Fabrication, Creative Tech
-
-## Tech Stack 💻
+## 💻 Tech Stack 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
