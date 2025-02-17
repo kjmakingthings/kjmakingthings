@@ -1,3 +1,4 @@
+//KJ: DO NOT TOUCH THIS
 // This is an abstract class (cannot be instantiated directly)
 // DO NOT EDIT THIS CLASS
 // It is used to share methods/variables between the various

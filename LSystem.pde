@@ -1,3 +1,4 @@
+// KJ: MODIFY THIS ONLY IF YOU NEED TO ADD NEW CHARACTERS
 // This is an implementation of an L-System that extends the class 
 // "BaseLSystem", which makes it easy to make new types of LSystems (e.g., probabalistic)
 // without repeating lots of code.
@@ -81,13 +82,20 @@ class LSystem extends BaseLSystem {
     
     // [TODO]: Loop through each character in the iteration string,
     // and do turtle operations based on the character
+    // ONLY CHANGE THIS TO ADD NEW CHARACTERS
     for (int i = 0; i < currentIteration.length(); i++) {
       Character c = currentIteration.charAt(i); 
       // [TODO]: Implement different l-system vocabulary
       switch (c) {
+        case'X':
+          break;
+        case 'Y':
+          break;
         case 'F':
           t.forward(dist);
           break; // The "break" exits out of the switch statement and prevents the next cases from running
+        case 'O':
+          t.left(150);
         case '+':
            t.right(rotateAngle);// [TODO]: Implement operations for each l-system vocabulary
           break;
